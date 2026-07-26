@@ -26,9 +26,7 @@ Instance segmentation of individual tree crowns on UAV orthomosaics.
 **Validated on 14,506 ha → 357,185 trees detected**, with documented box & mask precision/recall/mAP.
 Producer–consumer inference architecture that eliminates VRAM exhaustion on 4 GB laptop GPUs.
 
-<!-- 👉 Sube un GIF/PNG del resultado a docs/ en este repo y descomenta la línea siguiente:
-<p align="center"><img src="docs/demo_crown_segmentation.gif" width="600" alt="Tree crown segmentation demo"></p>
--->
+<p align="center"><img src="docs/crown_segmentation.png" width="720" alt="Individual tree crown segmentation on a UAV orthomosaic of a Mediterranean dehesa"></p>
 
 ### 🌍 [sentinel2-spectraldex](https://github.com/Juanmaherruzo/sentinel2-spectraldex)
 Sentinel-2 L2A pipeline on the free Copernicus CDSE API. AOI-driven scene search, cloud filtering,
