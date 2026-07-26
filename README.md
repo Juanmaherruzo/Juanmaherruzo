@@ -12,27 +12,13 @@ Three open-source projects on GitHub anchor my work, all MIT-licensed and writte
 
 **annotation-station** is a full-stack, privacy-first image annotation platform built with FastAPI, React, and SAM 2.1. It's designed for users who cannot send sensitive imagery to cloud-based labelling services. The system uses a three-level embedding cache to run smoothly on 4 GB VRAM laptop GPUs and exports to YOLO-segmentation, YOLO-detection, and COCO formats. The repository includes measured performance comparisons against Roboflow, CVAT, and Label Studio for the local-first use case.
 
-**How I work**
-
-Object-oriented Python codebases, no hardcoded paths, automated handling of CRS and resolution mismatches, learning-curve diagnostics for every ML component, and explicit documentation of known limitations. I treat reproducibility, honest reporting of model failure modes, and clean engineering as non-negotiable — even on student projects.
-
 **How I'm growing**
 
-Alongside my degree, I'm following a structured self-directed roadmap across machine learning, deep learning, computer vision, and geospatial data engineering. The progression covers mathematical foundations, the scikit-learn ecosystem and ensemble methods, PyTorch and CNN architectures, transfer learning, and computer vision applied to remote sensing. The goal is to combine academic forestry training with the technical depth needed to deliver production-grade geospatial tools.
-
-Current focus: operational forest carbon MRV, Sentinel-1 SAR for canopy structure, and self-supervised pretraining for remote sensing.
+Alongside my degree, I'm following a structured self-directed roadmap across machine learning, deep learning, computer vision, and geospatial data engineering. The progression covers mathematical foundations, the scikit-learn ecosystem and ensemble methods, PyTorch and CNN architectures, transfer learning, and computer vision applied to remote sensing.  My goal is to combine academic forestry training with the technical depth needed to deliver production-grade geospatial tools.
 
 **Where I'm headed**
 
 I'm interested in operational remote sensing, forest carbon MRV, adaptive management of Mediterranean woodlands, and the integration of GIS and AI inside forestry consultancies and research groups. I see myself contributing to organisations that are serious about turning satellite and UAV data into decisions on the ground — whether that's a consultancy, a public research institute, or a startup working on natural-capital monitoring.
-
-**Background and credentials**
-
-Third-year Forestry Engineering student at University of Cordoba (UCO). B2 English (certified by Cambridge), actively working toward C1. Spanish native speaker, based in Córdoba.
-
-I haven't completed my degree yet. I haven't done my master's yet. The titles will come — Master in Forestry Engineering and the Geoforest master's are in my plan, alongside continued autodidact work in AI and ML. In the meantime, what I have is public, verifiable work: three open-source projects with real datasets, real metrics, and real engineering decisions documented for anyone to read.
-
-I believe the asymmetry between where I am formally (third-year student, B2) and what's already in my repositories is the most honest signal I can offer. The repositories speak. The titles will follow.
 
 **Open to**
 
@@ -41,6 +27,6 @@ I believe the asymmetry between where I am formally (third-year student, B2) and
 - Technical conversations with people building at the intersection of forestry, earth observation, and applied AI.
 - Mentorship from senior engineers and researchers — I'm at the stage where good feedback is worth more than gold.
 
-If any of this resonates, the fastest way to evaluate fit is to spend 5 minutes on my pinned GitHub repositories. If you want to talk afterwards, I'd be glad to.
+If any of this resonates, and you want to talk afterwards, I'd be glad to.
 
 Córdoba, Spain · GitHub: Juanmaherruzo
