@@ -20,6 +20,15 @@
 
 > **The bottleneck in forestry isn't data — it's tooling.** UAV imagery, Sentinel time series, LiDAR and NDVI are already free. What's missing are pipelines a *forester* can actually run, on real datasets, on hardware they own. That's the gap I work in.
 
+## About me
+
+I'm a forestry engineering student with a strong interest in geospatial analysis and machine learning. Forest management both generates and depends on very large volumes of data — UAV surveys, satellite time series, LiDAR, field inventories — and a good part of it stays underused for lack of accessible tooling. That is where I focus my work: building pipelines that bring technology into field data collection and make it faster, automate the processing and analysis of that data, and return results that are easy to interpret for specialists and non-specialists alike.
+
+Most of it happens in the dehesas of southern Spain: flying the UAV
+campaigns, walking the plots, and then sitting down with the imagery. I enjoy working at
+that intersection between forestry and code, and I'm always glad to talk with people
+working on similar problems.
+
 ## Flagship projects
 
 ### [Dehesa-Crown-Segmentation-YOLOv11](https://github.com/Juanmaherruzo/Dehesa-Crown-Segmentation-YOLOv11)
