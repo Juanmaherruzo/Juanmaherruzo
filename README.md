@@ -64,10 +64,6 @@ Weekly olive-oil origin price forecasting: bimodal LSTM over climate and macroec
 
 ---
 
-## Open to
-
-`Internships in geospatial ML / precision forestry / remote sensing / computer vision (Spain or remote)` · `R&D collaborations on operational forest monitoring` · `Conversations at the intersection of forestry, earth observation & applied AI`
-
 <p align="center">
   <a href="mailto:juanmherruzo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/juanmaherruzo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
