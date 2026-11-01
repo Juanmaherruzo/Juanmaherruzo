@@ -29,14 +29,6 @@ campaigns, walking the plots, and then sitting down with the imagery. I enjoy wo
 that intersection between forestry and code, and I'm always glad to talk with people
 working on similar problems.
 
-## How I report results
-
-Every figure below is the one I would defend in front of someone who wanted to
-check it. Where a model loses to a naive baseline, the repository says so and
-leads with it. Where an uncertainty cannot be estimated honestly, no number is
-invented to fill the gap. Each project documents its own limitations, because a
-result you cannot see the edges of is not a result you can use.
-
 ## Flagship projects
 
 ### [Dehesa-Crown-Segmentation-YOLOv11](https://github.com/Juanmaherruzo/Dehesa-Crown-Segmentation-YOLOv11)
